@@ -1,31 +1,31 @@
 const destinations = [
   {
     id: 1,
-    placeName: 'Santorini, Greece',
-    budget: 45000,
-    duration: '5 Days',
-    season: 'Summer',
+    placeName: 'Beijing, China',
+    budget: 200000,
+    duration: '8 Days',
+    season: 'Winter',
   },
   {
     id: 2,
-    placeName: 'Kyoto, Japan',
-    budget: 60000,
-    duration: '7 Days',
+    placeName: 'Abu Dhabi, UAE',
+    budget: 100000,
+    duration: '4 Days',
     season: 'Spring',
   },
   {
     id: 3,
-    placeName: 'Marrakech, Morocco',
-    budget: 35000,
+    placeName: 'Riyadh, Saudi Arabia',
+    budget: 450000,
     duration: '6 Days',
     season: 'Autumn',
-  },
-  {
+  },,
+ {
     id: 4,
-    placeName: 'Reykjavik, Iceland',
-    budget: 70000,
+    placeName: 'London, UK',
+    budget: 700000,
     duration: '8 Days',
-    season: 'Winter',
+    season: 'Summer',
   },
 ];
 
